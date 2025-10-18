@@ -24,4 +24,5 @@ You can view more of my data visualizations [here](https://github.com/jahredwith
   <img src="/images/visualization_files/retail.png" width="75%" height="75%">
   <img src="/images/visualization_files/stations_boston.png" width="75%" height="75%">
   <img src="/images/visualization_files/sim_watersheds.gif" width="50%" height="50%">
+  <img src="/images/visualization_files/bob_ross.png" width="75%" height="75%">
 </div>
