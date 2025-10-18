@@ -9,7 +9,6 @@ This map was originally created as part of [Liddie et al., 2023](https://pubs.ac
 {{< figure src="/images/visualization_files/pfas_statewide_sampling_interactive_map.png" alt="jkhjkh" caption="The PFAS statewide sampling interactive map" width="100%" >}}
   
 <br>
-<br>
   
 ## TidyTuesday
 
@@ -23,6 +22,7 @@ You can view more of my data visualizations [here](https://github.com/jahredwith
   <img src="/images/visualization_files/dubois_graph2.png" width="40%">
   <img src="/images/visualization_files/retail.png" width="75%" height="75%">
   <img src="/images/visualization_files/stations_boston.png" width="75%" height="75%">
-  <img src="/images/visualization_files/sim_watersheds.gif" width="50%" height="50%">
+  <img src="/images/visualization_files/us_population.png" width="75%" height="75%">
   <img src="/images/visualization_files/bob_ross.png" width="75%" height="75%">
+  <img src="/images/visualization_files/sim_watersheds.gif" width="50%" height="50%">
 </div>
