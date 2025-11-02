@@ -1,4 +1,4 @@
-baseURL: https://jahred.github.io/
+baseURL: https://jahred.netlify.app/
 title: jahred liddie
 theme: hugo-coder
 languageCode: en
