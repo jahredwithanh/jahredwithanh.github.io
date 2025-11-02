@@ -72,12 +72,15 @@ languages:
         - name: Data
           url: data/
           weight: 3
-        - name: Visualizations
-          url: visualizations/
+        - name: Communication
+          url: scicom/
           weight: 4
+        - name: Visualization
+          url: visualizations/
+          weight: 5
         - name: CV
           url: cv/
-          weight: 5
+          weight: 6
         - name: Contact me
           url: contact/
-          weight: 6
+          weight: 7
