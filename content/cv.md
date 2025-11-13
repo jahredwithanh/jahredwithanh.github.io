@@ -3,6 +3,6 @@ slug: cv
 title:
 ---
 
-You can view my CV [here](/files/CV_jml_102025.pdf).
+You can view my CV [here](/files/CV_jml_112025.pdf).
 
-Last updated: 10/2025
+Last updated: 11/2025
