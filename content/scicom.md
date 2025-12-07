@@ -4,9 +4,9 @@ title:
 
 ## Upcoming talks
 
-**Nov. 15, 2025:** I'll be giving a seminar organized by the [Swetland Center for Environmental Health](https://case.edu/swetland/training/swetland-seminars) at Case Western Reserve University. Anyone can register [here](https://cwru.zoom.us/webinar/register/WN_fOVDtF-mQPynqPtBA0FWSQ#/registration), as long as they're interested.
+**Dec. 17, 2025:** I'm convening an oral and poster session at the American Geophysical Union meeting in New Orleans, LA. I'll also be giving an oral presentation. Registrants can view session details [here](https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/272040) and [here](https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/272125).
 
-{{< figure src="/images/scicom_files/swetland_seminar_2025.jpeg" width="50%" >}}
+{{< figure src="/images/scicom_files/GH31D+34B_session_details.jpg" width="50%" >}}
 
 *Stay tuned for additional talks and panels (in-person and virtual) coming up over the next few months.*
 
@@ -17,6 +17,13 @@ title:
 Here are a few highlights of some prior science communication work, including recorded talks (virtual and in-person), podcasts, and interviews.  
 
 ### Who is most exposed to PFAS in drinking water?
+
+*Mary A. Swetland Center for Environmental Health (2025)*
+
+I gave a seminar organized by the [Swetland Center for Environmental Health](https://www.youtube.com/watch?v=XI1EYrOnkxIp) at Case Western Reserve University.
+
+{{< figure src="/images/scicom_files/swetland_seminar_2025.jpeg" width="50%" >}}
+
 *Emerging Contaminants in the Environment Conference (2024)*
 
 This was a keynote talk I gave as part of the Emerging Contaminants in Environment Conference, co-hosted by the Illinois Sustainable Technology Center and Illinois-Indiana Sea Grant. See the full video on [YouTube](https://www.youtube.com/watch?v=C47MS23-xLw).
