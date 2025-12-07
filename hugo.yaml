@@ -78,7 +78,7 @@ languages:
         - name: Visualization
           url: visualizations/
           weight: 5
-        - name: CV
+        - name: CV and resume
           url: cv/
           weight: 6
         - name: Contact me
