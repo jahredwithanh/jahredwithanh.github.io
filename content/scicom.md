@@ -4,9 +4,9 @@ title:
 
 ## Upcoming talks
 
-I'll be giving [an online talk](https://tasteofscience.org/events/pfas) with Taste of Science later this month.
+I'll be giving talk with Prof. Xindi Hu at the American Museum of Natural History in NYC in June as part of their SciCafe series. RSVP [here](https://www.amnh.org/calendar/forever-chemicals)!
 
-{{< figure src="/images/scicom_files/ToS_2026.png" width="75%" >}}
+{{< figure src="/images/scicom_files/AMNH_2026.png" width="75%" >}}
 
 <br>
 
