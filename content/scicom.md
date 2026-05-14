@@ -4,9 +4,11 @@ title:
 
 ## Upcoming talks
 
-I'll be giving talk with Prof. Xindi Hu at the American Museum of Natural History in NYC in June as part of their SciCafe series. RSVP [here](https://www.amnh.org/calendar/forever-chemicals)!
+I'll be giving talk with [Prof. Xindi Hu](https://www.xindicindyhu.netlify.app) at the American Museum of Natural History in NYC in June as part of their SciCafe series. RSVP [here](https://www.amnh.org/calendar/forever-chemicals)!
 
 {{< figure src="/images/scicom_files/AMNH_2026.png" width="75%" >}}
+
+Just before then, I'll also be presenting some new, ongoing work on 6/2 at the [International Society for Environmental Epidemiology North American Chapter conference](https://www.isee-northamerica.org/2026_nac_conference.php) in Baltimore. Later on 6/24, I'll also be presenting some new work at the [American Waterworks Association ACE26 conference](https://ace.awwa.org/) in D.C. Please reach out if you'll be at either of these!
 
 <br>
 
