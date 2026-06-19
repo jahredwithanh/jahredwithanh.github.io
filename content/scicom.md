@@ -4,11 +4,9 @@ title:
 
 ## Upcoming talks
 
-I'll be giving talk with [Prof. Xindi Hu](https://www.xindicindyhu.netlify.app) at the American Museum of Natural History in NYC in June as part of their SciCafe series. RSVP [here](https://www.amnh.org/calendar/forever-chemicals)!
+On 6/24/26, I'll also be presenting some new work at the [American Waterworks Association ACE26 conference](https://ace.awwa.org/) in D.C. Please reach out if you'll be at either of these!
 
-{{< figure src="/images/scicom_files/AMNH_2026.png" width="75%" >}}
-
-Just before then, I'll also be presenting some new, ongoing work on 6/2 at the [International Society for Environmental Epidemiology North American Chapter conference](https://www.isee-northamerica.org/2026_nac_conference.php) in Baltimore. Later on 6/24, I'll also be presenting some new work at the [American Waterworks Association ACE26 conference](https://ace.awwa.org/) in D.C. Please reach out if you'll be at either of these!
+{{< figure src="/images/scicom_files/ACE26_jml.png" width="50%" >}}
 
 <br>
 
@@ -16,7 +14,21 @@ Just before then, I'll also be presenting some new, ongoing work on 6/2 at the [
 
 Here are a few highlights of some prior science communication work, including recorded talks (virtual and in-person), podcasts, and interviews.
 
-### How can we estimate the customer composition of community water systems?
+### SciCafe at the American Museum of Natural History (2026)
+
+My postdoc mentor, [Prof. Xindi Hu](https://www.xindicindyhu.netlify.app), and I co-presented a dialogue on PFAS at the American Museum of Natural History in NYC as part of their 2026 SciCafe series. We touched on everything from their history, exposure and health risks, private wells, environmental justice, emerging PFAS, to making drinking water data more available and actionable, and the US Environmental Protection Agency (EPA)'s recent regulatory plans.
+
+*Photography credit to Daniel Kim/© AMNH*
+
+<div style="display: flex; overflow-x: auto; gap: 20px; padding-bottom: 10px;"">
+  <img src="/images/scicom_files/amnh_1.jpg" width="50%" height="50%">
+  <img src="/images/scicom_files/amnh_2.jpg" width="50%" height="50%">
+  <img src="/images/scicom_files/amnh_3.jpg" width="50%" height="50%">
+  <img src="/images/scicom_files/amnh_4.jpg" width="50%" height="50%">
+  <img src="/images/scicom_files/amnh_5.jpg" width="50%" height="50%">
+</div>
+
+### Which communities are served by different water systems?
 
 *Mary A. Swetland Center for Environmental Health (2025)*
 
