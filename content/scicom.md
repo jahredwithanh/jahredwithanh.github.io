@@ -4,7 +4,7 @@ title:
 
 ## Upcoming talks
 
-On 6/24/26, I'll also be presenting some new work at the [American Waterworks Association ACE26 conference](https://ace.awwa.org/) in D.C. Please reach out if you'll be at either of these!
+On 6/24/26, I'll be presenting some new work at the [American Waterworks Association ACE26 conference](https://ace.awwa.org/) in D.C. Please reach out if you'll be there!
 
 {{< figure src="/images/scicom_files/ACE26_jml.png" width="50%" >}}
 
