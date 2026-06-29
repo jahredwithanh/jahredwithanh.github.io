@@ -4,9 +4,9 @@ title:
 
 ## Upcoming talks
 
-On 6/24/26, I'll be presenting some new work at the [American Waterworks Association ACE26 conference](https://ace.awwa.org/) in D.C. Please reach out if you'll be there!
+In late August, I'll be presenting our [recently published paper](https://doi.org/10.1021/acs.estlett.6c00404) at the [International Society for Environmental Epidemiology conference](https://ace.awwa.org/) in Munich. I'll also be presenting a poster on some other ongoing work. Please reach out if you'll be there!
 
-{{< figure src="/images/scicom_files/ACE26_jml.png" width="50%" >}}
+{{< figure src="/images/scicom_files/isee2026.png" width="50%" >}}
 
 <br>
 
