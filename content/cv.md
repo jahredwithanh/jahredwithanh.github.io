@@ -7,4 +7,4 @@ You can view my CV [here](/files/CV_jml_072026.pdf).
 
 *TL;DR* - check out my resumé [here](/files/Resume_jml_022026.pdf).  
 
-Last updated: 6/2026
+Last updated: 8/2026
