@@ -2,14 +2,6 @@
 title:
 ---
 
-## Upcoming talks
-
-In late August, I'll be presenting our [recently published paper](https://doi.org/10.1021/acs.estlett.6c00404) at the [International Society for Environmental Epidemiology conference](https://www.isee26.org/) in Munich. I'll also be presenting a poster on some other ongoing work. Please reach out if you'll be there!
-
-{{< figure src="/images/scicom_files/isee2026.png" width="50%" >}}
-
-<br>
-
 ## Past highlights
 
 Here are a few highlights of some prior science communication work, including recorded talks (virtual and in-person), podcasts, and interviews.
